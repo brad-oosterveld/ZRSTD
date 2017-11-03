@@ -15,13 +15,13 @@ project={osl},
 
 If you are interested in our other work it can be found here: https://hrilab.tufts.edu/publications/
 
-0. Notes:
+### 0. Notes:
 
     This system has only been tested on Ubuntu 14.04. 
 
     I do not have enough time to properly maintain this code, so it is provided "as is". That being said if you find a bug and fix it, send me a pull request, and I can merge it in.
 
-1. Installation:
+### 1. Installation:
 
    1. Dependencies:
       * cmake https://cmake.org/
@@ -42,12 +42,13 @@ If you are interested in our other work it can be found here: https://hrilab.tuf
 
    2. Building
      ~~~~
+     $ mkdir build
      $ cd build
      $ cmake ..
      $ make
      ~~~~
 
-2. Running
+### 2. Running
 
    To run the code on the data as provided by the [Zero Speech 2015](http://sapience.dec.ens.fr/bootphon/2015/index.html)
 
