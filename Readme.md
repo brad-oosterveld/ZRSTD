@@ -41,12 +41,12 @@ If you are interested in our other work it can be found here: https://hrilab.tuf
         CUDA 5.0 or greater required
 
    2. Building
-     ~~~~
-     $ mkdir build
-     $ cd build
-     $ cmake ..
-     $ make
-     ~~~~
+      ~~~~
+      $ mkdir build
+      $ cd build
+      $ cmake ..
+      $ make
+      ~~~~
 
 ### 2. Running
 
