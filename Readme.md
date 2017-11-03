@@ -17,9 +17,9 @@ If you are interested in our other work it can be found here: https://hrilab.tuf
 
 ### 0. Notes:
 
-    This system has only been tested on Ubuntu 14.04. 
+   This system has only been tested on Ubuntu 14.04. 
 
-    I do not have enough time to properly maintain this code, so it is provided "as is". That being said if you find a bug and fix it, send me a pull request, and I can merge it in.
+   I do not have enough time to properly maintain this code, so it is provided "as is". That being said if you find a bug and fix it, send me a pull request, and I can merge it in.
 
 ### 1. Installation:
 
