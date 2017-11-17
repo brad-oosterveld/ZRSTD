@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.6)
 
-PROJECT(ade_asr C CXX)
+PROJECT(ZRSTD C CXX)
 
 SET(CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/cmake/Modules/" ${CMAKE_MODULE_PATH})
 #set(CMAKE_VERBOSE_MAKEFILE on )
